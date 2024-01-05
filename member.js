@@ -3,4 +3,4 @@ function skillsMember() {
     restrict: 'E',
     templateUrl: 'app/member/skills.html'
   };
-}git add member.js
+}
